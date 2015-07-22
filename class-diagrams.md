@@ -13,7 +13,7 @@ By the end of this lesson you should be able to:
 
 ## Don't sweat the details
 
-People have developed several ways of drawing models for code.  In this lesson you'll be exposed to Class Diagrams (a part of [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language)).  In the next lesson, you'll be introduced to Entity Relationship Diagrams, and there are two kinds of those.  Often times seasoned developers mix all of them up - and nobody
+People have developed several ways of drawing models for code.  In this lesson you'll be exposed to Class Diagrams (a part of [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language)).  In the next lesson, you'll be introduced to Entity Relationship Diagrams, and there are two kinds of those.  Often times seasoned developers mix all of them up - and nobody cares. That's fine.
 
 Learning the fine details of the UML spec is unnecessary, because you are unlikely to find any fullstack developers in the industry that know the spec in a very detailed way.  And that's OK, because even with a basic sense of how to draw and read them, you can solve most of your team's communication problems.
 
