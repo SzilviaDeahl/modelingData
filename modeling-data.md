@@ -1,4 +1,4 @@
-# Entity Relationship Diagrams
+# Modeling Data
 
 ## Objectives
 
